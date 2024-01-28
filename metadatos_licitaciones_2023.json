@@ -1,0 +1,139 @@
+{
+    "atributos": [
+        {
+            "descripcion": "Identificador Único del Organismo  - Administración Nacional de Correos (www.unaoid.gub.uy )",
+            "informacionAdicional": "",
+            "tipoDeDato": "String",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "OID"
+        },
+        {
+            "descripcion": "Tipo de organización pública: Ministerio, Gobierno Departamental, Ente autónomo, etc.",
+            "informacionAdicional": "",
+            "tipoDeDato": "String",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Tipo Organismo"
+        },
+        {
+            "descripcion": "Número de inciso",
+            "informacionAdicional": "",
+            "tipoDeDato": "String",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Inciso"
+        },
+        {
+            "descripcion": "Unidad Ejecutora",
+            "informacionAdicional": "",
+            "tipoDeDato": "String",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "UE"
+        },
+        {
+            "descripcion": "Nombre del Inciso",
+            "informacionAdicional": "",
+            "tipoDeDato": "String",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Nombre Inciso"
+        },
+        {
+            "descripcion": "Nombre de la Unidad Ejecutora",
+            "informacionAdicional": "",
+            "tipoDeDato": "String",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Nombre UE"
+        },
+        {
+            "descripcion": "Nombre del Organismo, de acuerdo a la Ley Orgánica de la ANC (art. 747 de la 16.736 y modif), en caso de que no corresponda la identificación de Inciso/UE",
+            "informacionAdicional": "",
+            "tipoDeDato": "String",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Nombre Organismo"
+        },
+        {
+            "descripcion": "Título de la licitación",
+            "informacionAdicional": "",
+            "tipoDeDato": "String",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Titulo"
+        },
+        {
+            "descripcion": "Fecha de la primera publicación de la licitación en la página web de Correo Uruguayo",
+            "informacionAdicional": "",
+            "tipoDeDato": "Date ",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Fecha de Publicacion"
+        },
+        {
+            "descripcion": "Objeto del llamado de la licitación",
+            "informacionAdicional": "",
+            "tipoDeDato": "String",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Objeto del Llamado"
+        },
+        {
+            "descripcion": "Enlace al pliego de la licitación",
+            "informacionAdicional": "el valor no corresponde indica que para la licitación referida no existe a la fecha enlace al pliego",
+            "tipoDeDato": "String",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Enlace 1"
+        },
+        {
+            "descripcion": "Enlace a la modificación del pliego de la licitación ",
+            "informacionAdicional": "el valor no corresponde indica que para la licitación referida no existe a la fecha modificación del pliego",
+            "tipoDeDato": "String ",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Modificacion del Pliego"
+        },
+        {
+            "descripcion": "Enlace a la prorroga de apertura de la licitación ",
+            "informacionAdicional": "el valor no corresponde indica que para la licitación referida no existe a la fecha prorroga de apertura",
+            "tipoDeDato": "String",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Prorroga de Apertura y Aviso de Visita"
+        },
+        {
+            "descripcion": "Enlace a las Aclaraciones de la licitación ",
+            "informacionAdicional": "el valor no corresponde indica que para la licitación referida no existen aclaraciones al día de la fecha",
+            "tipoDeDato": "String",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Aclaraciones"
+        },
+        {
+            "descripcion": "Puesta de manifiesto por 5 días en el caso de corresponder",
+            "informacionAdicional": "el valor no corresponde indica que para la licitación referida no corresponder la puesta de manifiesto por 5 días ",
+            "tipoDeDato": "String",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Puesta de manifiesto"
+        },
+        {
+            "descripcion": "Enlace a Resolución de Adjudicación, de no Adjudicación o dejar sin efecto ",
+            "informacionAdicional": "el valor no corresponde indica que para la licitación referida no existe a la fecha enlace a la Resolución de Adjudicación",
+            "tipoDeDato": "String",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Enlace 2"
+        },
+        {
+            "descripcion": "Enlace a la resolución de la adjudicación de aumento o disminución del objeto",
+            "informacionAdicional": "el valor no corresponde indica que para la licitación referida no existe a la fecha enlace a la Resolución de Adjudicación de aumento de objeto",
+            "tipoDeDato": "String",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Enlace 3"
+        },
+        {
+            "descripcion": "Enlace a la Resolución de rescisión de objeto",
+            "informacionAdicional": "",
+            "tipoDeDato": "String",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Enlace 4"
+        },
+        {
+            "descripcion": "Punto o situación del proceso en que se encuentran. Se agrupan en: en proceso (llamados pendientes de apertura o con apertura en distinto estado de situación), adjudicadas, no adjudicadas o sin efecto. ",
+            "informacionAdicional": "",
+            "tipoDeDato": "String",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Estado"
+        }
+    ],
+    "titulo": "Metadatos de licitaciones y compras del organismo",
+    "descripcion": "Metadatos de licitaciones y compras del organismo"
+}
