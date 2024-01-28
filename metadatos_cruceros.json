@@ -1,0 +1,111 @@
+{
+    "atributos": [
+        {
+            "descripcion": "Es el código identificatorio de los Cruceros",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "IdCruceros"
+        },
+        {
+            "descripcion": "Es el código de la nacionalidad del entrevistado",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "idNacionalidad"
+        },
+        {
+            "descripcion": "Es la Nacionalidad del entrevistado",
+            "informacionAdicional": "",
+            "tipoDeDato": "String",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Pais"
+        },
+        {
+            "descripcion": "Fecha realizada la encuesta",
+            "informacionAdicional": "",
+            "tipoDeDato": "Date",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Fecha"
+        },
+        {
+            "descripcion": "Es el código de la fecha de realizada la encuesta",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "idfecha"
+        },
+        {
+            "descripcion": "Es el código identificatorio del puerto de arribo del crucerista",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "idPuerto"
+        },
+        {
+            "descripcion": "Es el Puerto de arribo del crucerista",
+            "informacionAdicional": "",
+            "tipoDeDato": "String",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Puerto"
+        },
+        {
+            "descripcion": "Cantidad de Personas en cada grupo",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "TotalPersonas"
+        },
+        {
+            "descripcion": "Cantidad de vistias anteriores",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "CantidadVisitas"
+        },
+        {
+            "descripcion": "Gasto para total, el valor de este gasto es medido en Dólares Americanos",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "GastoTotal"
+        },
+        {
+            "descripcion": "Gasto para Tours, el valor de este gasto es medido en Dólares Americanos",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "GastoTours"
+        },
+        {
+            "descripcion": "Gasto para la Alimentación, el valor de este gasto es medido en Dólares Americanos",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "GastoAlimentacion"
+        },
+        {
+            "descripcion": "Gasto para el Transporte, el valor de este gasto es medido en Dólares Americanos",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "GastoTransporte"
+        },
+        {
+            "descripcion": "Gasto para Shopping, el valor de este gasto es medido en Dólares Americanos",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "GastoShopping"
+        },
+        {
+            "descripcion": "Gasto para Otros, el valor de este gasto es medido en Dólares Americanos",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "GastoOtros"
+        }
+    ],
+    "titulo": "Recursos de Metadatos",
+    "descripcion": "Descripcion Metadatos"
+}
