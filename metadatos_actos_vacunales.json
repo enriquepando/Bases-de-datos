@@ -1,0 +1,1168 @@
+{
+    "atributos": [
+        {
+            "descripcion": "Fecha del acto vacunal",
+            "informacionAdicional": "",
+            "tipoDeDato": "Date",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Fecha"
+        },
+        {
+            "descripcion": "Total Dosis 1 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Total Dosis 1"
+        },
+        {
+            "descripcion": "Total Dosis 2 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Total Dosis 2"
+        },
+        {
+            "descripcion": "Total Dosis 3 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Total Dosis 3"
+        },
+        {
+            "descripcion": "Total Dosis 4 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Total Dosis 4"
+        },
+        {
+            "descripcion": "Total 1era Dosis Sinovac correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "1era Dosis Sinovac"
+        },
+        {
+            "descripcion": "Total 2da Dosis Sinovac correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "2da Dosis Sinovac"
+        },
+        {
+            "descripcion": "Total 3era Dosis Sinovac correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "3era Dosis Sinovac"
+        },
+        {
+            "descripcion": "Total 4ta Dosis Sinovac correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "4ta Dosis Sinovac"
+        },
+        {
+            "descripcion": "Total 1era Dosis Pfizer correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "1era Dosis Pfizer"
+        },
+        {
+            "descripcion": "Total 2da Dosis Pfizer correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "2da Dosis Pfizer"
+        },
+        {
+            "descripcion": "Total 3era Dosis Pfizer correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "3era Dosis Pfizer"
+        },
+        {
+            "descripcion": "Total 4ta Dosis Pfizer correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "4ta Dosis Pfizer"
+        },
+        {
+            "descripcion": "Total 1era Dosis Astrazeneca correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "1era Dosis Astrazeneca"
+        },
+        {
+            "descripcion": "Total 2da Dosis Astrazeneca correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "2da Dosis Astrazeneca"
+        },
+        {
+            "descripcion": "Total 3era Dosis Astrazeneca correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "3era Dosis Astrazeneca"
+        },
+        {
+            "descripcion": "Total 4ta Dosis Astrazeneca correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "4ta Dosis Astrazeneca"
+        },
+        {
+            "descripcion": "Total Montevideo Dosis 1 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Montevideo Dosis 1"
+        },
+        {
+            "descripcion": "Total Montevideo Dosis 2 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Montevideo Dosis 2"
+        },
+        {
+            "descripcion": "Total Montevideo Dosis 3 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Montevideo Dosis 3"
+        },
+        {
+            "descripcion": "Total Montevideo Dosis 4 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Montevideo Dosis 4"
+        },
+        {
+            "descripcion": "Total Artigas Dosis 1 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Artigas Dosis 1"
+        },
+        {
+            "descripcion": "Total Artigas Dosis 2 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Artigas Dosis 2"
+        },
+        {
+            "descripcion": "Total Artigas Dosis 3 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Artigas Dosis 3"
+        },
+        {
+            "descripcion": "Total Artigas Dosis 4 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Artigas Dosis 4"
+        },
+        {
+            "descripcion": "Total Canelones Dosis 1 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Canelones Dosis 1"
+        },
+        {
+            "descripcion": "Total Canelones Dosis 2 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Canelones Dosis 2"
+        },
+        {
+            "descripcion": "Total Canelones Dosis 3 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Canelones Dosis 3"
+        },
+        {
+            "descripcion": "Total Canelones Dosis 4 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Canelones Dosis 4"
+        },
+        {
+            "descripcion": "Total Cerro Largo Dosis 1 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Cerro Largo Dosis 1"
+        },
+        {
+            "descripcion": "Total Cerro Largo Dosis 2 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Cerro Largo Dosis 2"
+        },
+        {
+            "descripcion": "Total Cerro Largo Dosis 3 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Cerro Largo Dosis 3"
+        },
+        {
+            "descripcion": "Total Cerro Largo Dosis 4 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Cerro Largo Dosis 4"
+        },
+        {
+            "descripcion": "Total Colonia Dosis 1 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Colonia Dosis 1"
+        },
+        {
+            "descripcion": "Total Colonia Dosis 2 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Colonia Dosis 2"
+        },
+        {
+            "descripcion": "Total Colonia Dosis 3 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Colonia Dosis 3"
+        },
+        {
+            "descripcion": "Total Colonia Dosis 4 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Colonia Dosis 4"
+        },
+        {
+            "descripcion": "Total Durazno Dosis 1 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Durazno Dosis 1"
+        },
+        {
+            "descripcion": "Total Durazno Dosis 2 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Durazno Dosis 2"
+        },
+        {
+            "descripcion": "Total Durazno Dosis 3 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Durazno Dosis 3"
+        },
+        {
+            "descripcion": "Total Durazno Dosis 4 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Durazno Dosis 4"
+        },
+        {
+            "descripcion": "Total Flores Dosis 1 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Flores Dosis 1"
+        },
+        {
+            "descripcion": "Total Flores Dosis 2 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Flores Dosis 2"
+        },
+        {
+            "descripcion": "Total Flores Dosis 3 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Flores Dosis 3"
+        },
+        {
+            "descripcion": "Total Flores Dosis 4 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Flores Dosis 4"
+        },
+        {
+            "descripcion": "Total Florida Dosis 1 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Florida Dosis 1"
+        },
+        {
+            "descripcion": "Total Florida Dosis 2 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Florida Dosis 2"
+        },
+        {
+            "descripcion": "Total Florida Dosis 3 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Florida Dosis 3"
+        },
+        {
+            "descripcion": "Total Florida Dosis 4 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Florida Dosis 4"
+        },
+        {
+            "descripcion": "Total Lavalleja Dosis 1 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Lavalleja Dosis 1"
+        },
+        {
+            "descripcion": "Total Lavalleja Dosis 2 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Lavalleja Dosis 2"
+        },
+        {
+            "descripcion": "Total Lavalleja Dosis 3 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Lavalleja Dosis 3"
+        },
+        {
+            "descripcion": "Total Lavalleja Dosis 4 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Lavalleja Dosis 4"
+        },
+        {
+            "descripcion": "Total Maldonado Dosis 1 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Maldonado Dosis 1"
+        },
+        {
+            "descripcion": "Total Maldonado Dosis 2 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Maldonado Dosis 2"
+        },
+        {
+            "descripcion": "Total Maldonado Dosis 3 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Maldonado Dosis 3"
+        },
+        {
+            "descripcion": "Total Maldonado Dosis 4 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Maldonado Dosis 4"
+        },
+        {
+            "descripcion": "Total Paysandú Dosis 1 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Paysandú Dosis 1"
+        },
+        {
+            "descripcion": "Total Paysandú Dosis 2 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Paysandú Dosis 2"
+        },
+        {
+            "descripcion": "Total Paysandú Dosis 3 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Paysandú Dosis 3"
+        },
+        {
+            "descripcion": "Total Paysandú Dosis 4 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Paysandú Dosis 4"
+        },
+        {
+            "descripcion": "Total Río Negro Dosis 1 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Río Negro Dosis 1"
+        },
+        {
+            "descripcion": "Total Río Negro Dosis 2 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Río Negro Dosis 2"
+        },
+        {
+            "descripcion": "Total Río Negro Dosis 3 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Río Negro Dosis 3"
+        },
+        {
+            "descripcion": "Total Río Negro Dosis 4 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Río Negro Dosis 4"
+        },
+        {
+            "descripcion": "Total Rivera Dosis 1 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Rivera Dosis 1"
+        },
+        {
+            "descripcion": "Total Rivera Dosis 2 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Rivera Dosis 2"
+        },
+        {
+            "descripcion": "Total Rivera Dosis 3 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Rivera Dosis 3"
+        },
+        {
+            "descripcion": "Total Rivera Dosis 4 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Rivera Dosis 4"
+        },
+        {
+            "descripcion": "Total Rocha Dosis 1 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Rocha Dosis 1"
+        },
+        {
+            "descripcion": "Total Rocha Dosis 2 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Rocha Dosis 2"
+        },
+        {
+            "descripcion": "Total Rocha Dosis 3 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Rocha Dosis 3"
+        },
+        {
+            "descripcion": "Total Rocha Dosis 4 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Rocha Dosis 4"
+        },
+        {
+            "descripcion": "Total Salto Dosis 1 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Salto Dosis 1"
+        },
+        {
+            "descripcion": "Total Salto Dosis 2 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Salto Dosis 2"
+        },
+        {
+            "descripcion": "Total Salto Dosis 3 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Salto Dosis 3"
+        },
+        {
+            "descripcion": "Total Salto Dosis 4 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Salto Dosis 4"
+        },
+        {
+            "descripcion": "Total San José Dosis 1 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "San José Dosis 1"
+        },
+        {
+            "descripcion": "Total San José Dosis 2 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "San José Dosis 2"
+        },
+        {
+            "descripcion": "Total San José Dosis 3 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "San José Dosis 3"
+        },
+        {
+            "descripcion": "Total San José Dosis 4 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "San José Dosis 4"
+        },
+        {
+            "descripcion": "Total Soriano Dosis 1 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Soriano Dosis 1"
+        },
+        {
+            "descripcion": "Total Soriano Dosis 2 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Soriano Dosis 2"
+        },
+        {
+            "descripcion": "Total Soriano Dosis 3 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Soriano Dosis 3"
+        },
+        {
+            "descripcion": "Total Soriano Dosis 4 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Soriano Dosis 4"
+        },
+        {
+            "descripcion": "Total Tacuarembó Dosis 1 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Tacuarembó Dosis 1"
+        },
+        {
+            "descripcion": "Total Tacuarembó Dosis 2 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Tacuarembó Dosis 2"
+        },
+        {
+            "descripcion": "Total Tacuarembó Dosis 3 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Tacuarembó Dosis 3"
+        },
+        {
+            "descripcion": "Total Tacuarembó Dosis 4 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Tacuarembó Dosis 4"
+        },
+        {
+            "descripcion": "Total Treinta y Tres Dosis 1 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Treinta y Tres Dosis 1"
+        },
+        {
+            "descripcion": "Total Treinta y Tres Dosis 2 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Treinta y Tres Dosis 2"
+        },
+        {
+            "descripcion": "Total Treinta y Tres Dosis 3 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Treinta y Tres Dosis 3"
+        },
+        {
+            "descripcion": "Total Treinta y Tres Dosis 4 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Treinta y Tres Dosis 4"
+        },
+        {
+            "descripcion": "Total Departamento Sin Datos correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Departamento Sin Datos"
+        },
+        {
+            "descripcion": "Total rango de 5 a 11 años Dosis 1 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "5 a 11 Dosis 1"
+        },
+        {
+            "descripcion": "Total rango de 5 a 11 años Dosis 2 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "5 a 11 Dosis 2"
+        },
+        {
+            "descripcion": "Total rango de 5 a 11 años Dosis 3 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "5 a 11 Dosis 3"
+        },
+        {
+            "descripcion": "Total rango de 5 a 11 años Dosis 4 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "5 a 11 Dosis 4"
+        },
+        {
+            "descripcion": "Total rango de 12 a 14 años Dosis 1 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "12 a 14 Dosis 1"
+        },
+        {
+            "descripcion": "Total rango de 12 a 14 años Dosis 2 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "12 a 14 Dosis 2"
+        },
+        {
+            "descripcion": "Total rango de 12 a 14 años Dosis 3 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "12 a 14 Dosis 3"
+        },
+        {
+            "descripcion": "Total rango de 12 a 14 años Dosis 4 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "12 a 14 Dosis 4"
+        },
+        {
+            "descripcion": "Total rango de 15 a 19 años Dosis 1 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "15 a 19 Dosis 1"
+        },
+        {
+            "descripcion": "Total rango de 15 a 19 años Dosis 2 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "15 a 19 Dosis 2"
+        },
+        {
+            "descripcion": "Total rango de 15 a 19 años Dosis 3 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "15 a 19 Dosis 3"
+        },
+        {
+            "descripcion": "Total rango de 15 a 19 años Dosis 4 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "15 a 19 Dosis 4"
+        },
+        {
+            "descripcion": "Total rango de 20 a 24 años Dosis 1 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "20 a 24 Dosis 1"
+        },
+        {
+            "descripcion": "Total rango de 20 a 24 años Dosis 2 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "20 a 24 Dosis 2"
+        },
+        {
+            "descripcion": "Total rango de 20 a 24 años Dosis 3 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "20 a 24 Dosis 3"
+        },
+        {
+            "descripcion": "Total rango de 20 a 24 años Dosis 4 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "20 a 24 Dosis 4"
+        },
+        {
+            "descripcion": "Total rango de 25 a 34 años Dosis 1 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "25 a 34 Dosis 1"
+        },
+        {
+            "descripcion": "Total rango de 25 a 34 años Dosis 2 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "25 a 34 Dosis 2"
+        },
+        {
+            "descripcion": "Total rango de 25 a 34 años Dosis 3 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "25 a 34 Dosis 3"
+        },
+        {
+            "descripcion": "Total rango de 25 a 34 años Dosis 4 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "25 a 34 Dosis 4"
+        },
+        {
+            "descripcion": "Total rango de 35 a 44 años Dosis 1 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "35 a 44 Dosis 1"
+        },
+        {
+            "descripcion": "Total rango de 35 a 44 años Dosis 2 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "35 a 44 Dosis 2"
+        },
+        {
+            "descripcion": "Total rango de 35 a 44 años Dosis 3 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "35 a 44 Dosis 3"
+        },
+        {
+            "descripcion": "Total rango de 35 a 44 años Dosis 4 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "35 a 44 Dosis 4"
+        },
+        {
+            "descripcion": "Total rango de 45 a 54 años Dosis 1 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "45 a 54 Dosis 1"
+        },
+        {
+            "descripcion": "Total rango de 45 a 54 años Dosis 2 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "45 a 54 Dosis 2"
+        },
+        {
+            "descripcion": "Total rango de 45 a 54 años Dosis 3 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "45 a 54 Dosis 3"
+        },
+        {
+            "descripcion": "Total rango de 45 a 54 años Dosis 4 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "45 a 54 Dosis 4"
+        },
+        {
+            "descripcion": "Total rango de 55 a 64 años Dosis 1 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "55 a 64 Dosis 1"
+        },
+        {
+            "descripcion": "Total rango de 55 a 64 años Dosis 2 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "55 a 64 Dosis 2"
+        },
+        {
+            "descripcion": "Total rango de 55 a 64 años Dosis 3 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "55 a 64 Dosis 3"
+        },
+        {
+            "descripcion": "Total rango de 55 a 64 años Dosis 4 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "55 a 64 Dosis 4"
+        },
+        {
+            "descripcion": "Total rango de 65 a 74 años Dosis 1 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "65 a 74 Dosis 1"
+        },
+        {
+            "descripcion": "Total rango de 65 a 74 años Dosis 2 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "65 a 74 Dosis 2"
+        },
+        {
+            "descripcion": "Total rango de 65 a 74 años Dosis 3 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "65 a 74 Dosis 3"
+        },
+        {
+            "descripcion": "Total rango de 65 a 74 años Dosis 4 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "65 a 74 Dosis 4"
+        },
+        {
+            "descripcion": "Total rango mayor de 75 años Dosis 1 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "+ 75 Dosis 1"
+        },
+        {
+            "descripcion": "Total rango mayor de 75 años Dosis 2 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "+ 75 Dosis 2"
+        },
+        {
+            "descripcion": "Total rango mayor de 75 años Dosis 3 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "+ 75 Dosis 3"
+        },
+        {
+            "descripcion": "Total rango mayor de 75 años Dosis 4 correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "+ 75 Dosis 4"
+        },
+        {
+            "descripcion": "Total Rango Sin Datos correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Rango Sin Datos"
+        },
+        {
+            "descripcion": "Total Dosis 5 o más correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Total Dosis 5 o más"
+        },
+        {
+            "descripcion": "Total 5ta Dosis o más Pfizer correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "5ta Dosis o más Pfizer"
+        },
+        {
+            "descripcion": "Total Montevideo Dosis 5 o más correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Montevideo Dosis 5 o más"
+        },
+        {
+            "descripcion": "Total Artigas Dosis 5 o más correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Artigas Dosis 5 o más"
+        },
+        {
+            "descripcion": "Total Canelones Dosis 5 o más correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Canelones Dosis 5 o más"
+        },
+        {
+            "descripcion": "Total Cerro Largo Dosis 5 o más correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Cerro Largo Dosis 5 o más"
+        },
+        {
+            "descripcion": "Total Colonia Dosis 5 o más correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Colonia Dosis 5 o más"
+        },
+        {
+            "descripcion": "Total Durazno Dosis 5 o más correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Durazno Dosis 5 o más"
+        },
+        {
+            "descripcion": "Total Flores Dosis 5 o más correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Flores Dosis 5 o más"
+        },
+        {
+            "descripcion": "Total Florida Dosis 5 o más correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Florida Dosis 5 o más"
+        },
+        {
+            "descripcion": "Total Lavalleja Dosis 5 o más correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Lavalleja Dosis 5 o más"
+        },
+        {
+            "descripcion": "Total Maldonado Dosis 5 o más correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Maldonado Dosis 5 o más"
+        },
+        {
+            "descripcion": "Total Paysandú Dosis 5 o más correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Paysandú Dosis 5 o más"
+        },
+        {
+            "descripcion": "Total Río Negro Dosis 5 o más correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Río Negro Dosis 5 o más"
+        },
+        {
+            "descripcion": "Total Rivera Dosis 5 o más correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Rivera Dosis 5 o más"
+        },
+        {
+            "descripcion": "Total Rocha Dosis 5 o más correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Rocha Dosis 5 o más"
+        },
+        {
+            "descripcion": "Total Salto Dosis 5 o más correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Salto Dosis 5 o más"
+        },
+        {
+            "descripcion": "Total San José Dosis 5 o más correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "San José Dosis 5 o más"
+        },
+        {
+            "descripcion": "Total Soriano Dosis 5 o más correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Soriano Dosis 5 o más"
+        },
+        {
+            "descripcion": "Total Tacuarembó Dosis 5 o más correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Tacuarembó Dosis 5 o más"
+        },
+        {
+            "descripcion": "Total Treinta y Tres Dosis 5 o más correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Treinta y Tres Dosis 5 o más"
+        },
+        {
+            "descripcion": "Total rango de 5 a 11 años Dosis 5 o más correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "5 a 11 Dosis 5 o más"
+        },
+        {
+            "descripcion": "Total rango de 12 a 14 años Dosis 5 o más correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "12 a 14 Dosis 5 o más"
+        },
+        {
+            "descripcion": "Total rango de 15 a 19 años Dosis 5 o más correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "15 a 19 Dosis 5 o más"
+        },
+        {
+            "descripcion": "Total rango de 20 a 24 años Dosis 5 o más correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "20 a 24 Dosis 5 o más"
+        },
+        {
+            "descripcion": "Total rango de 25 a 34 años Dosis 5 o más correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "25 a 34 Dosis 5 o más"
+        },
+        {
+            "descripcion": "Total rango de 5 a 11 años Dosis 5 o más correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "35 a 44 Dosis 5 o más"
+        },
+        {
+            "descripcion": "Total rango de 45 a 54 años Dosis 5 o más correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "45 a 54 Dosis 5 o más"
+        },
+        {
+            "descripcion": "Total rango de 55 a 64 años Dosis 5 o más correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "55 a 64 Dosis 5 o más"
+        },
+        {
+            "descripcion": "Total rango de 65 a 74 años Dosis 5 o más correspondiente a la fecha",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "65 a 74 Dosis 5 o más"
+        },
+        {
+            "descripcion": "Total rango mayor de 75 años Dosis 5 o más",
+            "informacionAdicional": "",
+            "tipoDeDato": "Numeric",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "+ 75 Dosis 5 o más"
+        }
+    ],
+    "titulo": "Metadatos de historico de actos vacunales",
+    "descripcion": "Metadatos de los actos vacunales"
+}
